@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "184785411660",
+    "project_id": "atelier-4-o-erraouidate-iir5g2",
+    "storage_bucket": "atelier-4-o-erraouidate-iir5g2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184785411660:android:93ecfee43f6b5cb0129ee9",
+        "android_client_info": {
+          "package_name": "com.example.atelier4_o_erraouidate_iir5g2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB1fk-JVsqe92D36gnAgoMfuWcvDjRAvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
